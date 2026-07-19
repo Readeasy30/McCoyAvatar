@@ -1,0 +1,2 @@
+# McCoyAvatar
+Julia McCoy copycat
