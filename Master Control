@@ -1,0 +1,42 @@
+Password / resume key: AVATARFACTORY
+
+That becomes the phrase you use when you want to return to this work.
+
+The master project should contain:
+
+MASTER PLAN — what we're building and why
+AVATAR ROSTER
+Sales Director
+Marketing Director
+Website Foreman / Builder Boss
+future specialists
+KNOWLEDGE BASE — what each avatar must know
+EXPERIENCE LIBRARY — sales situations, objections, failures, solutions
+TOOLS — every tool required to operate
+PROCEDURES — how avatars work
+PROTECTION RULES — especially repair before rebuild
+WEBSITES — TopShelfWebsites, WebmastersLLC, ReadEasy30, MathEasy30
+TRAINING MATERIAL
+BUILD STATUS
+BACKUPS / ARCHIVE
+NEXT ACTIONS
+
+And I would put a very prominent file at the root:
+
+START-HERE-AVATAR-FACTORY.md
+
+Its first instruction would be essentially:
+
+If you are returning to this project, read this file first. It contains the current mission, architecture, rules, status, and links to everything else.
+
+One important distinction
+
+The phrase AVATARFACTORY can be our project/resume key, but do not use it as an actual security password. A real repository/account password should be generated separately and stored in a password manager.
+
+When you come back, you can simply tell me:
+
+AVATARFACTORY — CONTINUE
+
+and I'll know we're returning to this body of work rather than starting the discussion over.
+
+The next practical step is to create the new Avatar Factory repository and put today's decisions into it immediately, so this doesn't remain trapped in conversation history.
