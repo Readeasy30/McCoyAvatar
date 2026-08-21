@@ -1,0 +1,15 @@
+{
+    "site_name": "Top Shelf Websites",
+    "business_model": "Website Leasing & Maintenance Services",
+    "monthly_plans": {
+        "START": "/month",
+        "GROW": "/month",
+        "PRO": "/month"
+    },
+    "connected_team_avatars": {
+        "Avatar_Director": "Manages system builds and code repairs",
+        "Marketing_Director": "Runs multi-channel email and social campaigns",
+        "Operations_Manager": "Monitors system health and database flushes"
+    },
+    "status": "BLUEPRINT_ACTIVE"
+}
