@@ -1,0 +1,34 @@
+{
+    "ReadEasy30": {
+        "email_marketing": {
+            "subject": "Transform Learning with ReadEasy30 - Completely Free!",
+            "body_headline": "Discover a smarter way to practice skills with ReadEasy30.",
+            "body_content": "We built ReadEasy30 using modern technology to provide free, high-quality learning resources for special education and self-paced progress.",
+            "call_to_action": "Start learning today at readeasy30.com"
+        },
+        "facebook_post": {
+            "copy": "\ud83d\ude80 Excited to share what we've been working on! ReadEasy30 is an open-source, AI-driven educational tool designed to help students master skills completely for free. Check out our tools for special education and home practice today! #EdTech #OpenSource #ReadEasy30",
+            "target_link": "https://readeasy30.com"
+        },
+        "alternative_format_linkedin": {
+            "copy": "\ud83d\udca1 Innovation in open-source education: ReadEasy30 leverages modern technology to deliver zero-cost learning infrastructure. Built for scalability and accessibility. AI-driven literacy tools for students and adults.",
+            "cta_button": "Learn More"
+        }
+    },
+    "MathEasy30": {
+        "email_marketing": {
+            "subject": "Transform Learning with MathEasy30 - Completely Free!",
+            "body_headline": "Discover a smarter way to practice skills with MathEasy30.",
+            "body_content": "We built MathEasy30 using modern technology to provide free, high-quality learning resources for special education and self-paced progress.",
+            "call_to_action": "Start learning today at matheasy30.com"
+        },
+        "facebook_post": {
+            "copy": "\ud83d\ude80 Excited to share what we've been working on! MathEasy30 is an open-source, AI-driven educational tool designed to help students master skills completely for free. Check out our tools for special education and home practice today! #EdTech #OpenSource #MathEasy30",
+            "target_link": "https://matheasy30.com"
+        },
+        "alternative_format_linkedin": {
+            "copy": "\ud83d\udca1 Innovation in open-source education: MathEasy30 leverages modern technology to deliver zero-cost learning infrastructure. Built for scalability and accessibility. Free educational mathematics practice tools.",
+            "cta_button": "Learn More"
+        }
+    }
+}
