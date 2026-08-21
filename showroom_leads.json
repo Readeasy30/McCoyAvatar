@@ -1,0 +1,14 @@
+﻿[
+    {
+        "lead_id": "L001",
+        "email": "contact@ozarkprecisionauto.com",
+        "campaign_id": "ADVISOR_2",
+        "routing_status": "LOCKED"
+    },
+    {
+        "lead_id": "L002",
+        "email": "service@trilakescenter.com",
+        "campaign_id": "ADVISOR_3",
+        "routing_status": "LOCKED"
+    }
+]
