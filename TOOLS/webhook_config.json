@@ -1,0 +1,9 @@
+{
+    "webhook_receiver": "ACTIVE",
+    "supported_events": [
+        "stripe.payment_intent.succeeded",
+        "github.push_event"
+    ],
+    "hardware_state_protection": "FORCED_FLUSH",
+    "timestamp": "2026-08-21 10:03:54"
+}
