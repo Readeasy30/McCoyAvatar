@@ -1,0 +1,26 @@
+﻿name: 🚀 Cloudflare Production Factory Deployer
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  audit_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Clone Repository Files
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Setup Python Workspace
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 🧪 Run Production Test Suite Pass
+        run: |
+          python test_suite.py
+          python build_factory.py
+
+      - name: 🎉 Success Signal
+        run: echo "Workspace integration checks passed cleanly in the cloud!"
